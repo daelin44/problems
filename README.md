@@ -4,17 +4,17 @@ solutions to different coding problems
 
 this repository contains solutions to different coding problems listed below:
 
-##Add Two Numbers
+## Add Two Numbers
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-##Longest Substring Without Repeating Characters
+## Longest Substring Without Repeating Characters
 
 Given a string s, find the length of the longest substring without repeating characters.
 
-##Zigzag Conversion
+## Zigzag Conversion
 
 The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 
@@ -28,13 +28,13 @@ And then read line by line: "PAHNAPLSIIGYIR"
 
 Write the code that will take a string and make this conversion given a number of rows:
 
-##Reverse Integer
+## Reverse Integer
 
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
-##String to Integer (atoi)
+## String to Integer (atoi)
 
 Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
 
@@ -51,11 +51,11 @@ Note:
 Only the space character ' ' is considered a whitespace character.
 Do not ignore any characters other than the leading whitespace or the rest of the string after the digits.
 
-##Maximum Subarray
+## Maximum Subarray
 
 Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
-##Unique Paths
+## Unique Paths
 
 There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.
 
